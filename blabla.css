@@ -1,6 +1,8 @@
-font-family: "superduper";
-    src: url("https://github.com/rtxdr/testrepo/raw/main/AgaveNerdFontPropo_Regular.ttf");
+@font-face {
+    font-family: "superduper";
+        src: url("https://github.com/rtxdr/testrepo/raw/main/AgaveNerdFontPropo_Regular.ttf") format('truetype');
+}
 
 body, body *{
-   font-family: 'agave' !important;
+   font-family: 'superduper' !important;
 }
