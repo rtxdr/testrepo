@@ -1,3 +1,6 @@
+font-family: "superduper";
+    src: url("/usr/local/share/fonts/a/AgaveNerdFontPropo_Regular.ttf");
+
 body, body *{
-   font-family: 'agave' !important;
+   font-family: 'superduper' !important;
 }
